@@ -6,7 +6,7 @@
 /*   By: avolgin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/19 18:35:26 by avolgin           #+#    #+#             */
-/*   Updated: 2018/05/21 19:48:49 by avolgin          ###   ########.fr       */
+/*   Updated: 2018/05/21 20:03:40 by avolgin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,9 +20,9 @@ static void	display_menu(t_mlx *holder)
 	mlx_string_put(holder->init, holder->window, 5, 0, 2000, "---Hey! I'm  \
 Menu -------");
 	mlx_string_put(holder->init, holder->window, 5, 30, 3000, "*Up          \
-	{v} ********");
-	mlx_string_put(holder->init, holder->window, 5, 60, 4000, "**Down       \
 	{^} ********");
+	mlx_string_put(holder->init, holder->window, 5, 60, 4000, "**Down       \
+	{v} ********");
 	mlx_string_put(holder->init, holder->window, 5, 90, 5000, "**Left       \
 	{<} ********");
 	mlx_string_put(holder->init, holder->window, 5, 120, 25000, "**Right      \
