@@ -6,7 +6,7 @@
 /*   By: avolgin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/07 14:33:41 by avolgin           #+#    #+#             */
-/*   Updated: 2018/05/21 19:05:10 by avolgin          ###   ########.fr       */
+/*   Updated: 2018/05/21 19:50:25 by avolgin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -69,7 +69,7 @@ t_mlx		*holder_init(void)
 	holder->colour_add = 0;
 	holder->avto = 0;
 	holder->colour_map = 1;
-	holder->max_iterations = 200;
+	holder->max_iterations = 50;
 	return (holder);
 }
 
