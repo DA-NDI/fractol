@@ -1,0 +1,55 @@
+
+fractol.c,314
+#define INIT 14,913
+#define W 15,939
+#define H 16,963
+#define MOVEX 17,988
+#define MOVEY 18,1017
+#define ZOOM 19,1046
+void	ft_init_image(21,1073
+void		ft_print_error(28,1300
+static t_mlx	*holder_init(holder_init34,1372
+static void		reset_flags(53,1843
+static int		deal_key(60,1949
+int				main(76,2285
+
+ft_rgb_convert.c,30
+unsigned int	rgb_conv(15,914
+
+julia.c,147
+#define INIT 14,913
+#define W 15,939
+#define H 16,963
+#define MOVEX 17,988
+#define MOVEY 18,1017
+#define ZOOM 19,1046
+int		ft_julia(21,1073
+
+fractol.h,699
+# define FDF_H14,906
+# define PI 15,921
+# define RAD 16,943
+typedef struct		s_mlx25,1119
+	void			*window;window27,1143
+	void			*init;init28,1160
+	void			*image;image29,1175
+	char			*buff;buff30,1191
+	int				colour;31,1206
+	int	width;32,1222
+	int	height;33,1234
+	double			zoom;34,1247
+	int				size_line;35,1263
+	int				move_x;36,1282
+	int				move_y;37,1298
+	int				endian;38,1314
+	void			*img_new;img_new39,1330
+	int				bpp;40,1348
+	char			*img_addr;img_addr41,1361
+	double			max;42,1380
+}					t_mlx;43,1395
+typedef struct		s_coord45,1409
+	float			x;47,1435
+	float			y;48,1447
+	struct s_coord	*next;next49,1459
+	t_mlx			*holder;holder50,1482
+}					t_points;51,1500
