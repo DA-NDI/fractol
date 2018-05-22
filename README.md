@@ -22,3 +22,5 @@ https://github.com/qst0/ft_libgfx
  + - //change iterations number (numpad)
  
  Have fun!
+
+![alt text] (https://github.com/Wantiklo/fractol/blob/master/screenshots/1.png)
