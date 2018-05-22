@@ -6,7 +6,7 @@
 /*   By: avolgin <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/21 15:03:39 by avolgin           #+#    #+#             */
-/*   Updated: 2018/05/21 18:50:28 by avolgin          ###   ########.fr       */
+/*   Updated: 2018/05/21 20:00:48 by avolgin          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,8 +37,8 @@ static void	ft_mandelbrot_start(t_mlx *holder, t_thread *threads_arr, int i, \
 				old_re = new_re;
 				new_re = old_re * old_re - new_im * new_im + pr;
 				new_im = (old_re + old_re) * new_im + pi;
+				MAGNITUDE = new_re * new_re + new_im * new_im;
 			}
-			MAGNITUDE = new_re * new_re + new_im * new_im;
 			put_colour(i, threads_arr, XX, YY);
 		}
 	}
