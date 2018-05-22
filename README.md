@@ -8,10 +8,17 @@ https://github.com/qst0/ft_libgfx
   to run enter arguments. For ex:
   ./fractol Julia
   Mouse for zoom. Wheel up, wheel down, clicks.
-  1,2,3,4 for colour change (i like 3)
-  -= zoom on keyboard
-  [] mega zoom
-  arrow to move your fractal
-  p reset all settings
+  
+  1,2,3,4 //for colour change (i like 3)
+  
+  - = //zoom on keyboard
+  
+  [ ] //mega zoom
+  
+  arrows //to move your fractal
+  
+  p //reset all settings
+ 
+ + - //change iterations number (numpad)
  
  Have fun!
