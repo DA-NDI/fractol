@@ -23,4 +23,4 @@ https://github.com/qst0/ft_libgfx
  
  Have fun!
 
-![alt text] (https://github.com/Wantiklo/fractol/blob/master/screenshots/1.png)
+![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/1.png)
