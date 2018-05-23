@@ -11,7 +11,7 @@ Threads are implemented for speedup, fork for two windows at the same time.
 make
 ./fractol
 ```
-To run, enter valid arguments, one of the following:
+To run, enter valid arguments, one or two of the following:
 
 Mandelbrot, Julia, Ship, Mandel3, Mandel2
 
