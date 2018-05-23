@@ -19,9 +19,9 @@ For example to run Julia fractal:
 ```
 Some useful keys: 
 
-  1,2,3,4 //for colour change (i like 3)
+* 1,2,3,4 - colour change (i like 3)
   
-  - = //zoom on keyboard
+  - = zoom on keyboard
   
   [ ] //mega zoom
   
