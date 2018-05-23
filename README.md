@@ -19,17 +19,12 @@ For example to run Julia fractal:
 ```
 Some useful keys: 
 
-* 1,2,3,4 `colour change (i like 3)`
-  
-  - = zoom on keyboard
-  
-  [ ] //mega zoom
-  
-  arrows //to move your fractal
-  
-  p //reset all settings
- 
- + - //change iterations number (numpad)
+* `1,2,3,4` colour change (i like 3)
+* `- or =` zoom on keyboard
+* `[ or ]` mega zoom
+* `arrow keys` move your fractal
+* `p` reset all settings
+* `+ or -` change iterations number (from numpad)
 
  ## Have fun!
 
