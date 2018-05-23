@@ -4,15 +4,19 @@ In project i used mlx educational library. you can find it here:
 https://github.com/qst0/ft_libgfx
 Threads are implemented for speedup, fork for two windows at the same time.
 
-1. To compile program:
+1. To compile and run programm:
 ```bash
 make
+./fractol
 ```
-2. ./fractol //get usage of this programm
-  to run enter arguments. For ex:
-  ./fractol Julia
-  Mouse for zoom. Wheel up, wheel down, clicks.
-  
+To run, enter valid arguments, one of the following:
+Mandelbrot, Julia, Ship, Mandel3, Mandel2
+For example to run Julia fractal:
+```bash
+./fractol Julia
+```
+Some useful keys: 
+
   1,2,3,4 //for colour change (i like 3)
   
   - = //zoom on keyboard
