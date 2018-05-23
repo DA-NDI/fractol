@@ -1,7 +1,9 @@
 # fractol
 Educational project in 42 school (UNIT Factory). Implementation of fractals. Fractal geometry in a window.
 In project i used mlx educational library. you can find it here:
+
 https://github.com/qst0/ft_libgfx
+
 Threads are implemented for speedup, fork for two windows at the same time.
 
 1. To compile and run programm:
