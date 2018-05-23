@@ -6,9 +6,9 @@ https://github.com/qst0/ft_libgfx
 
 Threads are implemented for speedup, fork for two windows at the same time.
 
-To compile and run programm:
-```C
-#include <stdio.h> //hey
+To compile and run programm in terminal:
+```bash
+make
 ./fractol
 ```
 To run, enter valid arguments, one or two of the following:
