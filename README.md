@@ -26,6 +26,7 @@ Threads implemented for speedup, fork for two windows at the same time.
 
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/1.png)
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/Gif1(creal_c_imag_change).gif)
+![alt_text](https://github.com/Wantiklo/fractol/blob/master/screenshots/Gif2.gif)
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/3.png)
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/4.png)
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/5.png)
