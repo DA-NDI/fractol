@@ -1,10 +1,13 @@
 # fractol
-Educational project in 42 school. Implementation of fractals. Fractal geometry in a window.
+Educational project in 42 school (UNIT Factory). Implementation of fractals. Fractal geometry in a window.
 In project i used mlx educational library. you can find it here:
 https://github.com/qst0/ft_libgfx
-Threads implemented for speedup, fork for two windows at the same time.
+Threads are implemented for speedup, fork for two windows at the same time.
 
-1. make //to compile program
+1. To compile program:
+```bash
+make
+```
 2. ./fractol //get usage of this programm
   to run enter arguments. For ex:
   ./fractol Julia
@@ -22,7 +25,7 @@ Threads implemented for speedup, fork for two windows at the same time.
  
  + - //change iterations number (numpad)
 
- Have fun!
+ ## Have fun!
 
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/1.png)
 ![alt text](https://github.com/Wantiklo/fractol/blob/master/screenshots/Gif1(creal_c_imag_change).gif)
