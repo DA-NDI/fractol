@@ -10,7 +10,9 @@ make
 ./fractol
 ```
 To run, enter valid arguments, one of the following:
+
 Mandelbrot, Julia, Ship, Mandel3, Mandel2
+
 For example to run Julia fractal:
 ```bash
 ./fractol Julia
